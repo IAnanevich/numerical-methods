@@ -1,7 +1,7 @@
 # Laboratory work on numerical methods in physics
 
 ```
-$ git clone https://github.com/IAnanevich/weather-app.git
+$ git clone https://github.com/IAnanevich/numerical-methods.git
 ```
 
 ## Author 
