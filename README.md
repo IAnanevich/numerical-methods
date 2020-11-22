@@ -24,9 +24,9 @@ $ git clone https://github.com/IAnanevich/numerical-methods.git
 ## Used 
 
 - [Jupyter Notebook]
-- [Matplolib]
-- [Numpy]
-- [Scipy]
+- [Matplotlib]
+- [NumPy]
+- [SciPy]
 
 [IAnanevich]:https://github.com/IAnanevich
 [LinkedIn]:https://www.linkedin.com/in/iananevich/
@@ -34,6 +34,6 @@ $ git clone https://github.com/IAnanevich/numerical-methods.git
 [Gmail]:mailto:ivanshahter71@gmail.com
 [Telegram]:https://t.me/iananevich
 [Jupyter Notebook]:https://jupyter.org/
-[Matplolib]:https://matplotlib.org/
-[Numpy]:https://numpy.org/
-[Scipy]:https://www.scipy.org/
+[Matplotlib]:https://matplotlib.org/
+[NumPy]:https://numpy.org/
+[SciPy]:https://www.scipy.org/
